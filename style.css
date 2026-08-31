@@ -1,0 +1,55 @@
+
+body {
+	background-color: PapayaWhip;
+h1{
+	color: Indigo;
+	
+}
+h2 {
+  background-color: Wheat;
+  	color: Indigo;
+}
+
+p{
+	font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 14px;
+}
+
+
+ul{ font-family: "Lucida Console", "Courier New", monospace;
+    font-size: 14px;
+}
+	
+
+img {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  width: 30%;
+  height: 30%;
+}
+p:hover {opacity: 0.8;}
+h5:hover {opacity: 0.8;}
+
+a:active {
+  background-color: SandyBrown;
+}
+
+h5 {
+	text-align: center;
+	margin-top: 5px;
+	color: Indigo;
+}
+
+.center {
+	text-align: center;
+	}
+	
+.information {
+	text-align: center;
+	margin-bottom: 5px;
+	font-family: "Times New Roman", Times, serif;
+    font-size: 13px;
+	color: Indigo;
+}
+}
